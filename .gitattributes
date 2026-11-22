@@ -1,0 +1,2 @@
+dockerCommand*.txt text eol=lf
+dockerfile text eol=lf
